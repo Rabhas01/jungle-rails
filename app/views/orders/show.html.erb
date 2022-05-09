@@ -2,12 +2,22 @@
 
   <header class="page-header">
     <h1>Order #<%= @order.id %></h1>
-  </header>
+    
+    <%= render '/orders/line_item' %>
 
+    <br>
+      <h1> Grand Total: $<%=
+        @order.total_cents/ 100%>
+      </h1>
+    <br>
+
+    </header>
+    
   <div class="order-summary jumbotron">
-    <h4>Thank you for your order!</h4>
+    <h4>Thanks for shopping with us</h4>
+    <h3> An confitmation Email will be sent at  <%= @order.email%> </h3>
   </div>
-
+  <br>
   <%= link_to "Continue Shopping", root_path, class: 'btn btn-lg btn-primary' %>
 
 </section>
