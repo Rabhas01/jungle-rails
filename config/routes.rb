@@ -1,5 +1,10 @@
 Rails.application.routes.draw do
 
+  namespace :admin do
+    get 'categires_categories/index'
+    get 'categires_categories/new'
+    get 'categires_categories/create'
+  end
   get 'about/index'
   root to: 'products#index'
 
@@ -15,7 +20,7 @@ Rails.application.routes.draw do
 
   namespace :admin do
     root to: 'dashboard#show'
-    resources :products, except: [:edit, :update, :show]
+    resources :products, :categories, except: [:edit, :update, :show]
   end
 
   
