@@ -2,8 +2,8 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
-
-![image](https://user-images.githubusercontent.com/99258125/168127168-fae5191d-bc2a-4017-8d89-000fcd0101e4.png)
+https://github.com/Rabhas01/jungle-rails/blob/master/Docs/jungle.gif?raw=true
+![](https://github.com/Rabhas01/scheduler/blob/master/docs/Interview-Scheduler.gif?raw=true)
 
 
 ## Setup
