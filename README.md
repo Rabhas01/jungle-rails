@@ -2,7 +2,8 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
-![image](https://user-images.githubusercontent.com/99258125/168126810-b07af542-cf51-4ea3-b731-20a97a55f39a.png)
+
+![image](https://user-images.githubusercontent.com/99258125/168127168-fae5191d-bc2a-4017-8d89-000fcd0101e4.png)
 
 
 ## Setup
