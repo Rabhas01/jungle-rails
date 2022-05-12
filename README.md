@@ -3,16 +3,16 @@
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
 ##Login
-https://github.com/Rabhas01/jungle-rails/blob/master/Docs/Login_page.png?raw=true
+![image](https://user-images.githubusercontent.com/99258125/168162461-4558adf3-1933-435c-bd7f-59e51872c431.png)
 
 ##About Us
-https://github.com/Rabhas01/jungle-rails/blob/master/Docs/About_Us.png?raw=true
+![image](https://user-images.githubusercontent.com/99258125/168162420-16cd6c8e-e62c-4161-9e92-d1b6a3c24549.png)
 
 ##Cart
-https://github.com/Rabhas01/jungle-rails/blob/master/Docs/cart.png?raw=true
+![image](https://user-images.githubusercontent.com/99258125/168162392-bbaab0c4-1f9c-4c1d-bd4f-d04aa9cc660c.png)
 
 ##Add New CAtegory as an Admin
-https://github.com/Rabhas01/jungle-rails/blob/master/Docs/Add_Category.png?raw=true
+![image](https://user-images.githubusercontent.com/99258125/168162357-a30db812-c26f-470a-b479-3d494a4e2747.png)
 
 
 ## Setup
